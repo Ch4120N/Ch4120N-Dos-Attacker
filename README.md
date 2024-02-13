@@ -15,7 +15,7 @@
 
 ![ScreenShot1](https://github.com/Ch4120N/Ch4120N-Dos-Attacker/blob/main/Ch4120N-Dos-AttackerScreenshot-1.png)
 
-![ScreenShot2](https://github.com/ebrasha/Ch4120N-Dos-Attacker/blob/main/Ch4120N-Dos-AttackerScreenshot-2.png)
+![ScreenShot2](https://github.com/Ch4120N/Ch4120N-Dos-Attacker/blob/main/Ch4120N-Dos-AttackerScreenshot-2.png)
 
 ## Features
 
