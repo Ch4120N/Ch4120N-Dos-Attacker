@@ -26,7 +26,7 @@
 
 ## ⚙️ Installation
 Just download the last release from here: [Ch4120N Dos Attacker](https://github.com/Ch4120N/Ch4120N-Dos-Attacker/releases/download/1.0/Ch4120N.Dos.Attacker.exe)<br>
-Make sure you antiviruses is disabled (Because antiviruses block the Autoit programming language) <br>
+Make sure you antiviruses is disabled (`Because antiviruses block the Autoit programming language`) <br>
 And type target ip address Or target domain without http:// Or https:// Or www <br>
 And Enjoy 😁
 
