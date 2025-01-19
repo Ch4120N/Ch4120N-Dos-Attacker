@@ -24,6 +24,11 @@
 - No malware
 - Free
 
+## ⚙️ Installation
+Just download the last release from here: [Ch4120N Dos Attacker](https://github.com/Ch4120N/Ch4120N-Dos-Attacker/releases/download/1.0/Ch4120N.Dos.Attacker.exe)<br>
+And type target ip address Or target domain without http:// Or https:// Or www <br>
+And Enjoy 😁
+
 ## ❤️ Donation 
 > bitcoin:   bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
 
